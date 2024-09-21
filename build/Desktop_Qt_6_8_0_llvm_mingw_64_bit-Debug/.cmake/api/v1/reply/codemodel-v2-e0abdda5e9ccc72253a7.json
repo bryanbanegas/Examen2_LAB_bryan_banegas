@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-ae34810f11df83b86754.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Examen2_LAB_bryan_banegas",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Examen2_LAB_bryan_banegas::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Examen2_LAB_bryan_banegas-Debug-ece72ca5204c89520eb9.json",
+					"name" : "Examen2_LAB_bryan_banegas",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Examen2_LAB_bryan_banegas_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Examen2_LAB_bryan_banegas_autogen-Debug-bab04e24077a6fdd1a33.json",
+					"name" : "Examen2_LAB_bryan_banegas_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Examen2_LAB_bryan_banegas_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Examen2_LAB_bryan_banegas_autogen_timestamp_deps-Debug-f5f03f854eb1ec707991.json",
+					"name" : "Examen2_LAB_bryan_banegas_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/QT_ejercicios/Examen2_LAB_bryan_banegas/build/Desktop_Qt_6_8_0_llvm_mingw_64_bit-Debug",
+		"source" : "E:/QT_ejercicios/Examen2_LAB_bryan_banegas"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
